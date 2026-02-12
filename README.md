@@ -1,0 +1,1 @@
+# Encrypty-Parallel-File-Encryptor-Decryptor-in-C-
